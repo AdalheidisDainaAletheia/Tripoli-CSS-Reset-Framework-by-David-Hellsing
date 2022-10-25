@@ -4,6 +4,7 @@ The original full reset *(altered only for validation and removal of deprecated 
 
 Modified, tidied, and validated by [**Adalheidis Daina Aletheia**](https://github.com/AdalheidisDainaAletheia). Originally created 2021-05-25 05:21:22pm.
 
+[**View The Sample Markup on CodePen Here**](https://codepen.io/AdalheidisDainaAletheia/full/YzvzRxO)
 
 > The originally Tripoli CSS Reset Framework consisted of multiple stylesheets including the base, a simple version, Internet Explorer versions, visuals, and type. Though there are some simplified versions available on the web, the original version seems to be forgotten and set aside.
 > 
