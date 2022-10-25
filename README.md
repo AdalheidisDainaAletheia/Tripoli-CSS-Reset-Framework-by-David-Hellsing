@@ -1,4 +1,4 @@
-# Tripoli CSS Reset Framework
+# Tripoli CSS Reset Framework - Revised and Revisted
 ### Originally Developed by David Hellsing
 
 The original full reset (altered only for validation and removal of deprecated elements). Modified, tidied, and validated by Adalheidis Daina Aletheia. https://github.com/AdalheidisDainaAletheia
@@ -14,6 +14,8 @@ Modifications originally created 2021-05-25 05:21:22pm by Adalheidis Daina Aleth
 > 
 >  I have also included an html page to view all elements, based on HTML5 Kitchen Sink at https://github.com/dbox/html5-kitchen-sink
 >  
->  The only thing missing from the original reset is the depricated elements and some comments. Hopefully this will be useful for anyone looking for the original version in an updated package.
+>  The only thing missing from the original reset is the depricated elements and some comments.
+>  
+>  Hopefully this will be useful for anyone looking for the original version in an updated package.
 >  
 >  ~
