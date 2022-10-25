@@ -1,0 +1,116 @@
+/*
+    Tripoli CSS Reset Framework by David Hellsing
+    The original full reset (altered only for validation and removal of deprecated elements).
+
+    Modified, tidied, and validated by Adalheidis Daina Aletheia
+    https://github.com/AdalheidisDainaAletheia
+
+    v1.0.0
+    Modifications created 2021-05-25 05:21:22pm by Adalheidis Daina Aletheia
+*/
+/*
+    Tripoli is a generic CSS standard for HTML rendering. 
+    Copyright (C) 2007  David Hellsing
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+*/
+blockquote>:first-child:before {
+    color: #aaa;
+    content: "\201C";
+    font-family: georgia, serif;
+    font-size: 2.5em;
+    line-height: 0;
+    margin-left: -0.62em;
+    padding-right: 0.2em;
+}
+
+abbr[title],
+acronym[title],
+dfn[title] {
+    border-bottom: 1px solid #ccc;
+}
+
+ins,
+dfn {
+    border-bottom-color: #666;
+}
+
+fieldset {
+    border: 1px solid #ccc;
+    border-color: #ccc;
+}
+
+textarea,
+input[type="text"],
+input[type="password"],
+select {
+    background: #fff;
+    border: 1px solid #ccc;
+}
+
+textarea:hover,
+input[type="text"]:hover,
+input[type="password"]:hover,
+select:hover {
+    border-color: #aaa;
+}
+
+textarea:focus,
+input[type="text"]:focus,
+input[type="password"]:focus,
+select:focus {
+    outline: 2px solid #e4e4e4;
+    border-color: #888;
+}
+
+.content hr {
+    background: #aaa;
+    color: #999;
+}
+
+.content table {
+    border-left: 1px solid #ccc;
+    border-top: 1px solid #ccc;
+}
+
+.content th,
+.content td {
+    border-bottom: 1px solid #ddd;
+    border-right: 1px solid #ccc;
+    padding: 0.8em;
+}
+
+a:link {
+    color: #36c;
+}
+
+a:visited {
+    color: #99c;
+}
+
+a:hover,
+code,
+pre {
+    color: #c33;
+}
+
+a:active,
+.a:focus {
+    color: #000;
+}
+
+blockquote,
+del {
+    color: #666;
+}
