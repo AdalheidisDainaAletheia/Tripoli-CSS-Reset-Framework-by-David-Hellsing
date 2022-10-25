@@ -1,4 +1,4 @@
-# Tripoli CSS Reset Framework - Revised and Revisted
+# Tripoli CSS Reset Framework - Revised and Revisited
 
 ### Originally Developed by David Hellsing
 
